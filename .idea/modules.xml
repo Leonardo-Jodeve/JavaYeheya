@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.1.3 Java核心技术【例1.1】Application应用/01.1.3 Java核心技术【例1.1】Application应用.iml" filepath="$PROJECT_DIR$/01.1.3 Java核心技术【例1.1】Application应用/01.1.3 Java核心技术【例1.1】Application应用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.2.3 包【例1.2】/01.2.3 包【例1.2】.iml" filepath="$PROJECT_DIR$/01.2.3 包【例1.2】/01.2.3 包【例1.2】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.1.4 运算符与表达式【例2.1~2.2】/02.1.4 运算符与表达式【例2.1~2.2】.iml" filepath="$PROJECT_DIR$/02.1.4 运算符与表达式【例2.1~2.2】/02.1.4 运算符与表达式【例2.1~2.2】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.2.3 循环语句【例2.3】Fibonacci序列/02.2.3 循环语句【例2.3】Fibonacci序列.iml" filepath="$PROJECT_DIR$/02.2.3 循环语句【例2.3】Fibonacci序列/02.2.3 循环语句【例2.3】Fibonacci序列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.2.3 循环语句【例2.4】求日期是星期几/02.2.3 循环语句【例2.4】求日期是星期几.iml" filepath="$PROJECT_DIR$/02.2.3 循环语句【例2.4】求日期是星期几/02.2.3 循环语句【例2.4】求日期是星期几.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.3.1 一维数组【例2.5】Fibonacci序列/02.3.1 一维数组【例2.5】Fibonacci序列.iml" filepath="$PROJECT_DIR$/02.3.1 一维数组【例2.5】Fibonacci序列/02.3.1 一维数组【例2.5】Fibonacci序列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.3.2  二维数组【例2.6】幻方/02.3.2  二维数组【例2.6】幻方.iml" filepath="$PROJECT_DIR$/02.3.2  二维数组【例2.6】幻方/02.3.2  二维数组【例2.6】幻方.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.4.3 参数传递【例2.7】一维整数数组排序/02.4.3 参数传递【例2.7】一维整数数组排序.iml" filepath="$PROJECT_DIR$/02.4.3 参数传递【例2.7】一维整数数组排序/02.4.3 参数传递【例2.7】一维整数数组排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.4.3 参数传递【例2.8】二维整数数组，杨辉三角/02.4.3 参数传递【例2.8】二维整数数组，杨辉三角.iml" filepath="$PROJECT_DIR$/02.4.3 参数传递【例2.8】二维整数数组，杨辉三角/02.4.3 参数传递【例2.8】二维整数数组，杨辉三角.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.4.4 递归方法【例2.9】Fibonacci/02.4.4 递归方法【例2.9】Fibonacci.iml" filepath="$PROJECT_DIR$/02.4.4 递归方法【例2.9】Fibonacci/02.4.4 递归方法【例2.9】Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.5  字符串【例2.10】字符串与整数（二进制）的转换/02.5  字符串【例2.10】字符串与整数（二进制）的转换.iml" filepath="$PROJECT_DIR$/02.5  字符串【例2.10】字符串与整数（二进制）的转换/02.5  字符串【例2.10】字符串与整数（二进制）的转换.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.1  类和对象【例3.1】日期类/03.1  类和对象【例3.1】日期类.iml" filepath="$PROJECT_DIR$/03.1  类和对象【例3.1】日期类/03.1  类和对象【例3.1】日期类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.2  类的封装性【例3.2】封装的MyDate/03.2  类的封装性【例3.2】封装的MyDate.iml" filepath="$PROJECT_DIR$/03.2  类的封装性【例3.2】封装的MyDate/03.2  类的封装性【例3.2】封装的MyDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.2 【例3.3】浅拷贝的Person类/03.2 【例3.3】浅拷贝的Person类.iml" filepath="$PROJECT_DIR$/03.2 【例3.3】浅拷贝的Person类/03.2 【例3.3】浅拷贝的Person类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.2 【例3.3】深拷贝的Person类/03.2 【例3.3】深拷贝的Person类.iml" filepath="$PROJECT_DIR$/03.2 【例3.3】深拷贝的Person类/03.2 【例3.3】深拷贝的Person类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.3  类的继承性【例3.4】Student类继承Person类/03.3  类的继承性【例3.4】Student类继承Person类.iml" filepath="$PROJECT_DIR$/03.3  类的继承性【例3.4】Student类继承Person类/03.3  类的继承性【例3.4】Student类继承Person类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.4  类的多态性【例3.5】Student类重定义父类成员/03.4  类的多态性【例3.5】Student类重定义父类成员.iml" filepath="$PROJECT_DIR$/03.4  类的多态性【例3.5】Student类重定义父类成员/03.4  类的多态性【例3.5】Student类重定义父类成员.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.4  类的多态性【例3.6】对象数组/03.4  类的多态性【例3.6】对象数组.iml" filepath="$PROJECT_DIR$/03.4  类的多态性【例3.6】对象数组/03.4  类的多态性【例3.6】对象数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.5  类的抽象性【例3.7】图形抽象类；04.1 接口/03.5  类的抽象性【例3.7】图形抽象类；04.1 接口.iml" filepath="$PROJECT_DIR$/03.5  类的抽象性【例3.7】图形抽象类；04.1 接口/03.5  类的抽象性【例3.7】图形抽象类；04.1 接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.1  接口 1.声明接口【例4.1】Area、Volume接口，柱体类/04.1  接口 1.声明接口【例4.1】Area、Volume接口，柱体类.iml" filepath="$PROJECT_DIR$/04.1  接口 1.声明接口【例4.1】Area、Volume接口，柱体类/04.1  接口 1.声明接口【例4.1】Area、Volume接口，柱体类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.1  接口 7.多继承【研究】(2) 接口的多态性/04.1  接口 7.多继承【研究】(2) 接口的多态性.iml" filepath="$PROJECT_DIR$/04.1  接口 7.多继承【研究】(2) 接口的多态性/04.1  接口 7.多继承【研究】(2) 接口的多态性.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.2  内部类【例4.2】像素类/04.2  内部类【例4.2】像素类.iml" filepath="$PROJECT_DIR$/04.2  内部类【例4.2】像素类/04.2  内部类【例4.2】像素类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.3.2  java.util包 1.日期类【例4.3】日历/04.3.2  java.util包 1.日期类【例4.3】日历.iml" filepath="$PROJECT_DIR$/04.3.2  java.util包 1.日期类【例4.3】日历/04.3.2  java.util包 1.日期类【例4.3】日历.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.3.2  java.util包 3. Arrays类【例4.4】对象数组排序和查找；4.4 泛型【实验4-6】/04.3.2  java.util包 3. Arrays类【例4.4】对象数组排序和查找；4.4 泛型【实验题4-6】.iml" filepath="$PROJECT_DIR$/04.3.2  java.util包 3. Arrays类【例4.4】对象数组排序和查找；4.4 泛型【实验4-6】/04.3.2  java.util包 3. Arrays类【例4.4】对象数组排序和查找；4.4 泛型【实验题4-6】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.2.1 异常处理语句【例5.1~2】避免异常，异常处理/05.2.1 异常处理语句【例5.1~2】避免异常，异常处理.iml" filepath="$PROJECT_DIR$/05.2.1 异常处理语句【例5.1~2】避免异常，异常处理/05.2.1 异常处理语句【例5.1~2】避免异常，异常处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.2.3 定义异常类【例5.3】日期类的异常处理。/05.2.3 定义异常类【例5.3】日期类的异常处理。.iml" filepath="$PROJECT_DIR$/05.2.3 定义异常类【例5.3】日期类的异常处理。/05.2.3 定义异常类【例5.3】日期类的异常处理。.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.1.1 AWT组件【例6.1】算术运算器/06.1.1 AWT组件【例6.1】算术运算器.iml" filepath="$PROJECT_DIR$/06.1.1 AWT组件【例6.1】算术运算器/06.1.1 AWT组件【例6.1】算术运算器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.1.2  布局管理/06.1.2  布局管理.iml" filepath="$PROJECT_DIR$/06.1.2  布局管理/06.1.2  布局管理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.2 事件处理【例6.2】字符编码查询器/06.2 事件处理【例6.2】字符编码查询器.iml" filepath="$PROJECT_DIR$/06.2 事件处理【例6.2】字符编码查询器/06.2 事件处理【例6.2】字符编码查询器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.3.2 文本组件 【例6.3及思考题】中文大写金额/06.3.2 文本组件 【例6.3及思考题】中文大写金额.iml" filepath="$PROJECT_DIR$/06.3.2 文本组件 【例6.3及思考题】中文大写金额/06.3.2 文本组件 【例6.3及思考题】中文大写金额.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.3.5 列表框和组合框【例6.4】Person对象信息管理；【例12.3】渲染器/06.3.5 列表框和组合框【例6.4】Person对象信息管理；【例12.3】渲染器.iml" filepath="$PROJECT_DIR$/06.3.5 列表框和组合框【例6.4】Person对象信息管理；【例12.3】渲染器/06.3.5 列表框和组合框【例6.4】Person对象信息管理；【例12.3】渲染器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.3.7 菜单【例6.5】文本编辑器；【例12.2】颜色串；【例12.3】渲染器/06.3.7 菜单【例6.5】文本编辑器；【例12.2】颜色串；【例12.3】渲染器.iml" filepath="$PROJECT_DIR$/06.3.7 菜单【例6.5】文本编辑器；【例12.2】颜色串；【例12.3】渲染器/06.3.7 菜单【例6.5】文本编辑器；【例12.2】颜色串；【例12.3】渲染器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.3.8 表格【例6.6】计算贷款/06.3.8 表格【例6.6】计算贷款.iml" filepath="$PROJECT_DIR$/06.3.8 表格【例6.6】计算贷款/06.3.8 表格【例6.6】计算贷款.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.4 图形设计【例6.7】四叶玫瑰线/06.4 图形设计【例6.7】四叶玫瑰线.iml" filepath="$PROJECT_DIR$/06.4 图形设计【例6.7】四叶玫瑰线/06.4 图形设计【例6.7】四叶玫瑰线.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.4 图形设计【例6.8】拖动鼠标画直线，外部类控制/06.4 图形设计【例6.8】拖动鼠标画直线，外部类控制.iml" filepath="$PROJECT_DIR$/06.4 图形设计【例6.8】拖动鼠标画直线，外部类控制/06.4 图形设计【例6.8】拖动鼠标画直线，外部类控制.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.2.1 Java线程【例7.1～7.2】奇偶数线程/07.2.1 Java线程【例7.1～7.2】奇偶数线程.iml" filepath="$PROJECT_DIR$/07.2.1 Java线程【例7.1～7.2】奇偶数线程/07.2.1 Java线程【例7.1～7.2】奇偶数线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.2.4 线程，动画设计【例7.3】滚动字/07.2.4 线程，动画设计【例7.3】滚动字.iml" filepath="$PROJECT_DIR$/07.2.4 线程，动画设计【例7.3】滚动字/07.2.4 线程，动画设计【例7.3】滚动字.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.3.1 交互线程【例7.4】存取款，有错/07.3.1 交互线程【例7.4】存取款，有错.iml" filepath="$PROJECT_DIR$/07.3.1 交互线程【例7.4】存取款，有错/07.3.1 交互线程【例7.4】存取款，有错.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.3.2 线程互斥【例7.5】存取款，互斥锁定/07.3.2 线程互斥【例7.5】存取款，互斥锁定.iml" filepath="$PROJECT_DIR$/07.3.2 线程互斥【例7.5】存取款，互斥锁定/07.3.2 线程互斥【例7.5】存取款，互斥锁定.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.3.3 线程同步【例7.6】发送线程与接收线程，有错/07.3.3 线程同步【例7.6】发送线程与接收线程，有错.iml" filepath="$PROJECT_DIR$/07.3.3 线程同步【例7.6】发送线程与接收线程，有错/07.3.3 线程同步【例7.6】发送线程与接收线程，有错.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.3.3 线程同步【例7.7】发送线程与接收线程同步运行/07.3.3 线程同步【例7.7】发送线程与接收线程同步运行.iml" filepath="$PROJECT_DIR$/07.3.3 线程同步【例7.7】发送线程与接收线程同步运行/07.3.3 线程同步【例7.7】发送线程与接收线程同步运行.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.3.3 线程同步【例7.8】发牌。【例12.1】发送随机数序列/07.3.3 线程同步【例7.8】发牌。【例12.1】发送随机数序列.iml" filepath="$PROJECT_DIR$/07.3.3 线程同步【例7.8】发牌。【例12.1】发送随机数序列/07.3.3 线程同步【例7.8】发牌。【例12.1】发送随机数序列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.2.3 文件字节流【例8.1】理解字节流/08.2.3 文件字节流【例8.1】理解字节流.iml" filepath="$PROJECT_DIR$/08.2.3 文件字节流【例8.1】理解字节流/08.2.3 文件字节流【例8.1】理解字节流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.2.4 数据字节流【例8.2】随机数序列，表格整数文件/08.2.4 数据字节流【例8.2】随机数序列，表格整数文件.iml" filepath="$PROJECT_DIR$/08.2.4 数据字节流【例8.2】随机数序列，表格整数文件/08.2.4 数据字节流【例8.2】随机数序列，表格整数文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.2.4~8.3.1 流类【例8.5】读写组件文件的通用方法/08.2.4~8.3.1 流类【例8.5】读写组件文件的通用方法.iml" filepath="$PROJECT_DIR$/08.2.4~8.3.1 流类【例8.5】读写组件文件的通用方法/08.2.4~8.3.1 流类【例8.5】读写组件文件的通用方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.2.5 对象字节流【例8.3】Person对象信息管理，列表框对象文件/08.2.5 对象字节流【例8.3】Person对象信息管理，列表框对象文件.iml" filepath="$PROJECT_DIR$/08.2.5 对象字节流【例8.3】Person对象信息管理，列表框对象文件/08.2.5 对象字节流【例8.3】Person对象信息管理，列表框对象文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.2.6 管道字节流【例8.4】管道流发牌/08.2.6 管道字节流【例8.4】管道流发牌.iml" filepath="$PROJECT_DIR$/08.2.6 管道字节流【例8.4】管道流发牌/08.2.6 管道字节流【例8.4】管道流发牌.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.4.1 文件类及其过滤器【例8.6及思考题】音乐播放器的文件列表/08.4.1 文件类及其过滤器【例8.6及思考题】音乐播放器的文件列表.iml" filepath="$PROJECT_DIR$/08.4.1 文件类及其过滤器【例8.6及思考题】音乐播放器的文件列表/08.4.1 文件类及其过滤器【例8.6及思考题】音乐播放器的文件列表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.4.2 【例8.7】文本文件编辑器和文件管理器/08.4.2 【例8.7】文本文件编辑器和文件管理器.iml" filepath="$PROJECT_DIR$/08.4.2 【例8.7】文本文件编辑器和文件管理器/08.4.2 【例8.7】文本文件编辑器和文件管理器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.2 TCP Socket【例9.1】同步画图/09.2 TCP Socket【例9.1】同步画图.iml" filepath="$PROJECT_DIR$/09.2 TCP Socket【例9.1】同步画图/09.2 TCP Socket【例9.1】同步画图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.2 TCP Socket【例9.2】网络发牌/09.2 TCP Socket【例9.2】网络发牌.iml" filepath="$PROJECT_DIR$/09.2 TCP Socket【例9.2】网络发牌/09.2 TCP Socket【例9.2】网络发牌.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.2 TCP Socket【例9.3】多人分别聊天/09.2 TCP Socket【例9.3】多人分别聊天.iml" filepath="$PROJECT_DIR$/09.2 TCP Socket【例9.3】多人分别聊天/09.2 TCP Socket【例9.3】多人分别聊天.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.3.1 UDP Socket【例9.4】点对点聊天/09.3.1 UDP Socket【例9.4】点对点聊天.iml" filepath="$PROJECT_DIR$/09.3.1 UDP Socket【例9.4】点对点聊天/09.3.1 UDP Socket【例9.4】点对点聊天.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.3.2 UDP 组播【例9.5】控制网络考试时间/09.3.2 UDP 组播【例9.5】控制网络考试时间.iml" filepath="$PROJECT_DIR$/09.3.2 UDP 组播【例9.5】控制网络考试时间/09.3.2 UDP 组播【例9.5】控制网络考试时间.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.3.2 UDP 组播【例9.6】组播聊天/09.3.2 UDP 组播【例9.6】组播聊天.iml" filepath="$PROJECT_DIR$/09.3.2 UDP 组播【例9.6】组播聊天/09.3.2 UDP 组播【例9.6】组播聊天.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.3 JDBC【例10.1～10.3】MySQL57.18/10.3 JDBC【例10.1～10.3】MySQL57.18.iml" filepath="$PROJECT_DIR$/10.3 JDBC【例10.1～10.3】MySQL57.18/10.3 JDBC【例10.1～10.3】MySQL57.18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.2_JSP【例11.1】时间/11.2_JSP【例11.1】时间.iml" filepath="$PROJECT_DIR$/11.2_JSP【例11.1】时间/11.2_JSP【例11.1】时间.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.2_JSP【例11.2】求和/11.2_JSP【例11.2】求和.iml" filepath="$PROJECT_DIR$/11.2_JSP【例11.2】求和/11.2_JSP【例11.2】求和.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.2_JSP【例11.3】选举投票/11.2_JSP【例11.3】选举投票.iml" filepath="$PROJECT_DIR$/11.2_JSP【例11.3】选举投票/11.2_JSP【例11.3】选举投票.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.2_JSP【例11.4】数据库应用/11.2_JSP【例11.4】数据库应用.iml" filepath="$PROJECT_DIR$/11.2_JSP【例11.4】数据库应用/11.2_JSP【例11.4】数据库应用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.1 集合框架【例12.6用】集合的通用方法/12.1 集合框架【例12.6用】集合的通用方法.iml" filepath="$PROJECT_DIR$/12.1 集合框架【例12.6用】集合的通用方法/12.1 集合框架【例12.6用】集合的通用方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.2 反射【例12.2】使用反射技术的通用方法/12.2 反射【例12.2】使用反射技术的通用方法.iml" filepath="$PROJECT_DIR$/12.2 反射【例12.2】使用反射技术的通用方法/12.2 反射【例12.2】使用反射技术的通用方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.3.2 列表框【例12.3】预览字体，单元渲染器/12.3.2 列表框【例12.3】预览字体，单元渲染器.iml" filepath="$PROJECT_DIR$/12.3.2 列表框【例12.3】预览字体，单元渲染器/12.3.2 列表框【例12.3】预览字体，单元渲染器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.3.2 列表框【例12.4】多项选择与数据移动/12.3.2 列表框【例12.4】多项选择与数据移动.iml" filepath="$PROJECT_DIR$/12.3.2 列表框【例12.4】多项选择与数据移动/12.3.2 列表框【例12.4】多项选择与数据移动.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.3.4 多文档界面【例12.5】文本文件编辑器/12.3.4 多文档界面【例12.5】文本文件编辑器.iml" filepath="$PROJECT_DIR$/12.3.4 多文档界面【例12.5】文本文件编辑器/12.3.4 多文档界面【例12.5】文本文件编辑器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.3.5 树【例12.6】采用分类树的Person对象信息管理，省市树/12.3.5 树【例12.6】采用分类树的Person对象信息管理，省市树.iml" filepath="$PROJECT_DIR$/12.3.5 树【例12.6】采用分类树的Person对象信息管理，省市树/12.3.5 树【例12.6】采用分类树的Person对象信息管理，省市树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.4  数据库应用【例12.7】世界杯足球赛成绩统计/12.4  数据库应用【例12.7】世界杯足球赛成绩统计.iml" filepath="$PROJECT_DIR$/12.4  数据库应用【例12.7】世界杯足球赛成绩统计/12.4  数据库应用【例12.7】世界杯足球赛成绩统计.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/03.5  类的抽象性【例3.7】图形抽象类；04.1 接口"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/01.2.3 包【例1.2】"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

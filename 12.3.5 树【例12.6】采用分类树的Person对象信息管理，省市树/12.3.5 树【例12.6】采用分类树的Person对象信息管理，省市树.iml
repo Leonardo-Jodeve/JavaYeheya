@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module" module-name="03.2  类的封装性【例3.2】封装的MyDate" />
+    <orderEntry type="module" module-name="03.2 【例3.3】深拷贝的Person类" />
+    <orderEntry type="module" module-name="03.4  类的多态性【例3.5】Student类重定义父类成员" />
+    <orderEntry type="module" module-name="06.3.5 列表框和组合框【例6.4】Person对象信息管理；【例12.3】渲染器" />
+    <orderEntry type="module" module-name="08.2.5 对象字节流【例8.3】Person对象信息管理，列表框对象文件" />
+    <orderEntry type="module" module-name="12.1 集合框架【例12.6用】集合的通用方法" />
+    <orderEntry type="module" module-name="12.2 反射【例12.2】使用反射技术的通用方法" />
+  </component>
+</module>

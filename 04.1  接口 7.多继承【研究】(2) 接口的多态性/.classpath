@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/03.5  类的抽象性【例3.7】图形抽象类；04.1 接口"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/04.1  接口 1.声明接口【例4.1】Area、Volume接口，柱体类"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

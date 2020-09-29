@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module" module-name="08.4.2 【例8.7】文本文件编辑器和文件管理器" />
+    <orderEntry type="module" module-name="06.3.7 菜单【例6.5】文本编辑器；【例12.2】颜色串；【例12.3】渲染器" />
+    <orderEntry type="module" module-name="08.2.4~8.3.1 流类【例8.5】读写组件文件的通用方法" />
+  </component>
+</module>

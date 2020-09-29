@@ -1,0 +1,17 @@
+<!--《Java程序设计实用教程（第5版）》 作者：叶核亚，2018年3月22日
+§11.2 JSP
+【实验11-1】求和，HTML文档输入，JSP文档计算。
+（1）HTML静态文档
+      显示输入界面，将输入数据以字符串形式提交给JSP文档进行处理
+--> 
+
+<html>
+  <head><title>输入求和数值</title></head>
+  <body>
+    <form name=form1 method=post action="sumResult.jsp">   <!--表单，提交给指定JSP文档-->
+      Sum(1+……+<input type=text name="n" value="10">)       <!--输入求和范围-->
+      <input type=submit value="=">                         <!--单击“=”提交-->
+    </form>
+  </body>
+</html>
+<!--@author：Yeheya，2018年3月22日-->

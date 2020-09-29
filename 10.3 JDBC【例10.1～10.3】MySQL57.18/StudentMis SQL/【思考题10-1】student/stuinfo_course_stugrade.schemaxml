@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemadesigner version="6.5">
+<source>
+<database charset="gbk" collation="gbk_chinese_ci">student</database>
+</source>
+<canvas zoom="100">
+<tables>
+<table name="course" view="colnames">
+<left>140</left>
+<top>87</top>
+<width>123</width>
+<height>143</height>
+<sql_create_table>CREATE TABLE `course` (
+  `course_id` char(10) NOT NULL,
+  `course_name` char(20) DEFAULT NULL,
+  `credit_hour` float(5,1) DEFAULT NULL,
+  `period` int(11) DEFAULT NULL,
+  PRIMARY KEY (`course_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=gbk</sql_create_table>
+</table>
+<table name="stugrade" view="colnames">
+<left>297</left>
+<top>2</top>
+<width>101</width>
+<height>126</height>
+<sql_create_table>CREATE TABLE `stugrade` (
+  `stu_id` char(10) NOT NULL,
+  `course_id` char(10) NOT NULL,
+  `grade` float(5,2) DEFAULT NULL,
+  PRIMARY KEY (`stu_id`,`course_id`),
+  KEY `course_id` (`course_id`),
+  CONSTRAINT `stugrade_ibfk_1` FOREIGN KEY (`stu_id`) REFERENCES `stuinfo` (`stu_id`),
+  CONSTRAINT `stugrade_ibfk_2` FOREIGN KEY (`course_id`) REFERENCES `course` (`course_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=gbk</sql_create_table>
+</table>
+<table name="stuinfo" view="colnames">
+<left>19</left>
+<top>6</top>
+<width>112</width>
+<height>228</height>
+<sql_create_table>CREATE TABLE `stuinfo` (
+  `stu_id` char(10) NOT NULL,
+  `stu_name` char(10) DEFAULT NULL,
+  `sex` char(2) DEFAULT NULL,
+  `province` char(20) DEFAULT NULL,
+  `area` char(20) DEFAULT NULL,
+  `birthday` date DEFAULT NULL,
+  `nation` char(10) DEFAULT '汉',
+  `member` tinyint(1) DEFAULT '1',
+  `department` char(20) DEFAULT NULL,
+  PRIMARY KEY (`stu_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=gbk</sql_create_table>
+</table>
+</tables>
+</canvas>
+</schemadesigner>

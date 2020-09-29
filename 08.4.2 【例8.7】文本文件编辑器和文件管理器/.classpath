@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/06.3.7 菜单【例6.5】文本编辑器；【例12.2】颜色串；【例12.3】渲染器"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/08.2.4~8.3.1 流类【例8.5】读写组件文件的通用方法"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

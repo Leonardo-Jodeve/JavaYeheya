@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/03.2  类的封装性【例3.2】封装的MyDate"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/03.2 【例3.3】深拷贝的Person类"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/03.4  类的多态性【例3.5】Student类重定义父类成员"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/06.3.5 列表框和组合框【例6.4】Person对象信息管理；【例12.3】渲染器"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/08.2.5 对象字节流【例8.3】Person对象信息管理，列表框对象文件"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/12.1 集合框架【例12.6用】集合的通用方法"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/12.2 反射【例12.2】使用反射技术的通用方法"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

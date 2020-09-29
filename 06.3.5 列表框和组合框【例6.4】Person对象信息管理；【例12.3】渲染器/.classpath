@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/03.2  类的封装性【例3.2】封装的MyDate"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/03.4  类的多态性【例3.5】Student类重定义父类成员"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/03.2 【例3.3】深拷贝的Person类"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/12.3.2 列表框【例12.3】预览字体，单元渲染器"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/04.3.2  java.util包 3. Arrays类【例4.4】对象数组排序和查找；4.4 泛型【实验4-6】"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
